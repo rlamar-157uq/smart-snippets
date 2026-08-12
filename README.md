@@ -1,0 +1,2 @@
+# smart-snippets
+react project
